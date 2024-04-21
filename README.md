@@ -1,0 +1,1 @@
+This repository is my first game made with HTML, CSS and JavaScript. It is a basic Blackjack game that introduced me to functions, loops, arrays and objects. This was part of the project requirements for SDF05 and was also followed along on a Scrimba course on how to do it.
